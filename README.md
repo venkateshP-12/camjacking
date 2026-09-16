@@ -357,14 +357,12 @@ We aim to bridge the gap between **beginners and professionals** by creating too
 
 ## 👨‍💻 Authors
 
-**KarthiTheHacker**  
-- 🌐 Website: [karthithehacker.com](https://karthithehacker.com)  
-- 🐙 GitHub: [@karthi-the-hacker](https://github.com/karthi-the-hacker)  
+**venky**   
+- 🐙 GitHub: [@venkateshP-12](https://github.com/venkateshP-12)  
 - 🛠️ Contributions: Core CLI, database layer, APIs, authentication, and core backend logic  
 
-**Akash K**  
-- 🐙 GitHub: [@Ak4sh2523](https://github.com/Ak4sh2523)  
-- 💼 LinkedIn: [Akash K](https://www.linkedin.com/in/akash-k-83223b224/)  
+**venkatesh P**   
+- 💼 LinkedIn: [venkatesh P](https://www.linkedin.com/in/p-venkatesh1)  
 - 🎨 Contributions: GUI/UI design, phishing templates, and Admin Dashboard frontend  
 
 
