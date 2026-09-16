@@ -1,0 +1,76 @@
+{
+  "name": "camjacking",
+  "version": "0.0.3",
+  "description": "CamJacking is an open-source ethical hacking and social engineering simulation tool for security awareness and penetration testing. It helps organizations test human negligence, webcam permission abuse, and security posture in real-world scenarios.",
+  "homepage": "https://github.com/Cappricio-Securities/camjacking",
+  "main": "camjacking.js",
+  "bin": {
+    "camjacking": "./camjacking.js",
+    "CamJacking": "./camjacking.js",
+    "cam-jacking": "./camjacking.js"
+  },
+  "scripts": {
+    "start": "node camjacking.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cappricio-Securities/camjacking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cappricio-Securities/camjacking/issues"
+  },
+  "author": {
+    "name": "Karthikeyan V (karthithehacker)",
+    "email": "contact@karthithehacker.com",
+    "url": "https://karthithehacker.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "camjacking",
+    "webcam hacking",
+    "webcam security",
+    "social engineering",
+    "ethical hacking",
+    "penetration testing",
+    "red team",
+    "blue team",
+    "cybersecurity",
+    "security awareness",
+    "security audit",
+    "cli tool",
+    "hacking tools",
+    "infosec",
+    "bug bounty",
+    "osint",
+    "kali linux tools",
+    "pentest toolkit",
+    "security testing",
+    "cappricio securities",
+    "karthithehacker"
+  ],
+  "files": [
+    "camjacking.js",
+    "includes",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "axios": "^1.13.5",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "jsonwebtoken": "^9.0.3",
+    "lowdb": "^1.0.0",
+    "md5": "^2.3.0",
+    "multer": "^2.0.2",
+    "uuid": "^13.0.0"
+  }
+}
